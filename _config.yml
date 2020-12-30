@@ -18,20 +18,20 @@ source-code: https://infoliterati.github.io/Gertzel_collection/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: psychiana demo  
+title: monographs - Gertzel collection   
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a collection of materals related to the pschiana religion 
+tagline: a collection of photos of the monographs from the library of Cherry Gertzel 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection has text, images and video and is based on material from the Idaho University Library."
+description: "This collection consists of photos of books from the Library ollection, arranged on shelves according to subject."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Karen Miller
+author: infoliterati
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: psychiana 
+metadata: gertzel-books 
 
 ##########
 # GOOGLE SERVICES [optional!]
