@@ -16,7 +16,7 @@ This collection provides a broad overview of the published material in the Gertz
 
 It shows the subject areas, as well as the quantity and types, of published material in the Library. 
 
-The purpose of the collection is to make information about it more readily available in order to find a suitable home (or homes) for the material so that they can be used by Africanist scholars and researchers. 
+The purpose of the collection is to make information about it more readily available in order to find a suitable home (or homes) for the material so that it can be used by Africanist scholars and researchers. 
 
 ## Items in the collection 
 
@@ -47,4 +47,4 @@ Extensive collection of seminar papers (7 boxes) and conference papers (4 boxes)
 #### Archives 
 Work on the unpublished, archival material is in process and broad descriptions may be provided to this collection in the future. The John Curtin Prime Ministerial Library at Curtin University is currently processing and will be housing some of the archival materials from the Gerzel Library. 
 
-For more information on the Gertzel Library visit http://cherrygertzel.net/library-and-archives/
+For more information on the Gertzel Library visit <http://cherrygertzel.net/library-and-archives/>
