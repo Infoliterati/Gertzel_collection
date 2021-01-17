@@ -31,10 +31,6 @@ There are 170 images of monographs, rerpresenting approximately 4000 titles.  Th
 
 #### Periodicals: 
 There are 26 boxes holding around 150 periodical titles.  Approximately 135 of these titles are not available electronically. There are some large runs, such as the Kenya Weekly Review (a complete set from 1970s - 1990s) as well as hard to obtain titles some of which date back to the 1950s. 
-
-A list of periodical titles can be downloaded here.
-
-{% include feature/item-pdf-embed.html objectid="list%of%items%(by%title)%.pdf" width="25" %}
  
 #### Government reports  
 
@@ -51,5 +47,4 @@ Extensive collection of seminar papers (7 boxes) and conference papers (4 boxes)
 #### Archives 
 Work on the unpublished, archival material is in process and broad descriptions may be provided to this collection in the future. The John Curtin Prime Ministerial Library at Curtin University is currently processing and will be housing some of the archival materials from the Gerzel Library. 
 
-
--
+For more information on the Gertzel Library visit http://cherrygertzel.net/library-and-archives/
