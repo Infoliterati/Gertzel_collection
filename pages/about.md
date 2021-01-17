@@ -15,22 +15,16 @@ permalink: /about.html
 
 This collection provides a broad overview of the published material in the Gertzel Library. 
 
-It provides the subject areas as well as the quantity and types of published material in the Library. 
+It shows the subject areas, as well as the quantity and types, of published material in the Library. 
 
-The aim is to make information about the collection available in order to find suitable homes for the material so that it can be made avaiable for the benefit of Africanist scholars and researchers. 
+The aim is to make information about the collection more readily available in order to find suitable homes for the material so that they can be accessed by Africanist scholars and researchers. 
 
-There are two types of 'items' in the collection: a visual description of the monographs (as photos of the bookshelves) and textual descriptions of the published periodicals, reports and research papers.  
+## Items in the collection 
 
-There are currently 264 items in this collection consisting of:
-- 170 images of monographs.  Each photograph represents a shelf of books (between 20-30 titles). These images provide a visual reference of the books in the collection.  
-
-- 94 entries each of which represents a 50L box of published material including reports, periodicals and research papers.   
+There are two types of 'items': 
+1. visual descriptions (170 images) of the monographs (each photo shows between 20-30 book titles). 
+2. text descriptions (94 entries) of the published periodicals, reports and research papers (each entry represents a 50l box of materials).   
  
-Download a list of all 264 items.  
-
-{% include feature/item-pdf-embed.html objectid="demo_002" width="25" %}
-
-
 #### Monographs: 
 There are 170 images of monographs, rerpresenting approximately 4000 titles.  The majority of the books are about Africa and have been categorised either according to country (69 items) or subject area (54 items).  The remaining 47 items are of other more general topics such as third world development and political theory.
 
@@ -52,6 +46,11 @@ Extensive collection (approximately 7 boxes) of non-government reports from Keny
 #### Research papers 
 
 Extensive collection of seminar papers (7 boxes) and conference papers (4 boxes) mainly from universities and reseach centres in Africa, UK and Australia. 
+
+Download a list of all 264 items. 
+
+
+{% include feature/item-pdf-embed.html objectid="demo_002" width="25" %}
 
 #### Archives 
 Work on the unpublished, archival material is in process and broad descriptions may be provided to this collection in the future. The John Curtin Prime Ministerial Library at Curtin University is currently processing and will be housing some of the archival materials from the Gerzel Library. 
@@ -85,11 +84,4 @@ Work on the unpublished, archival material is in process and broad descriptions 
 
 {% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="When clicked:" text="A Modal will pop out a box with some more information" color="primary"  %}
 
-We hope this makes it easier for site builders to develop the collection AND add interesting and engaging contextual information.  
 
-## About Collection Builder
-
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
