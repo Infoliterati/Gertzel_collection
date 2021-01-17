@@ -8,7 +8,7 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the collection;Items in the collection" %}
 
 
 ## About the collection 
